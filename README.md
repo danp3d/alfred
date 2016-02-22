@@ -2,7 +2,7 @@
 
 Alfred is a command-line tool to scaffold applications.
 
-`
+
 Usage: alfred [options] [command]
 
 
@@ -17,4 +17,4 @@ Usage: alfred [options] [command]
 
     -h, --help     output usage information
     -V, --version  output the version number
-`
+
