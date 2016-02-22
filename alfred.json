@@ -1,0 +1,19 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "test"
+    },
+    "process": {
+        "development": {
+            "port": 3010
+        },
+        "production": {
+            "port": 80
+        },
+        "test": {
+            "port": 3666
+        }
+    }
+}

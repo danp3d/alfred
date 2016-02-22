@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "author": "Daniel Pedroso <daniel.exe@gmail.com>",
+    "license": "LicenseRef-LICENSE",
+    "dependencies": {}
+}
